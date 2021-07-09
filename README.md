@@ -14,9 +14,9 @@
     <img src="https://img.shields.io/packagist/dt/codeat3/blade-uiw-icons" alt="Total Downloads">
 </a>
 
-A package to easily make use of [Blade Uiw Icons](https://github.com/mono-company/mono-icons) in your Laravel Blade views.
+A package to easily make use of [Blade Uiw Icons](https://github.com/uiwjs/icons) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [icons.mono.company](https://icons.mono.company/).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [uiwjs.github.io](https://uiwjs.github.io/icons/).
 
 ## Requirements
 
