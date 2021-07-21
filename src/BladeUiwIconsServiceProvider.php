@@ -19,7 +19,6 @@ final class BladeUiwIconsServiceProvider extends ServiceProvider
 
             $factory->add('uiw-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
@@ -39,5 +38,4 @@ final class BladeUiwIconsServiceProvider extends ServiceProvider
             ], 'blade-uiw-icons-config');
         }
     }
-
 }
