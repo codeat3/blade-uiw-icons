@@ -2,7 +2,16 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-uiw-icons/compare/1.4.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-uiw-icons/compare/1.4.1...HEAD)
+
+## [1.4.1](https://github.com/codeat3/blade-uiw-icons/compare/1.4.0...1.4.1) - 2023-03-12
+
+### What's Changed
+
+- upgrade github action to php82 by @swapnilsarwe in https://github.com/codeat3/blade-uiw-icons/pull/9
+- icon updates with correct fill attributes by @swapnilsarwe in https://github.com/codeat3/blade-uiw-icons/pull/10
+
+**Full Changelog**: https://github.com/codeat3/blade-uiw-icons/compare/1.4.0...1.4.1
 
 ## [1.4.0](https://github.com/codeat3/blade-uiw-icons/compare/1.3.0...1.4.0) - 2023-02-18
 
